@@ -1,6 +1,8 @@
 # CPE322-S2026-JS
 **Hello World! My name is Joaquin**
+
 *Incoming Extern at NASA L'SPACE*
+
 > This is my Github
 1. First item
 2. Second item
