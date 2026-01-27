@@ -1,6 +1,4 @@
 # CPE-322--Joaquin-Santander
-## 3/5 Electrical Engineering Major at SIT
-### Senator in the SGA
 **Joaquin Santander**
 *Incoming Extern at NASA L'SPACE*
 > This is my Github
