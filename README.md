@@ -11,6 +11,8 @@
 - Second item
 - Third item
 `code`
+
 ---
+
 [Link to my linkedin](https://www.linkedin.com/in/joaquin-santander-4088b0249/)
 ![JoaquinSantander](image.jpg)
