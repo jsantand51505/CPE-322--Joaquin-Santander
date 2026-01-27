@@ -21,7 +21,7 @@ cout << "Thank you for reading this!" << endl;
 
 ---
 
-[Link to my linkedin]https://www.linkedin.com/in/joaquin-santander-4088b0249/
+![Link to my linkedin]https://www.linkedin.com/in/joaquin-santander-4088b0249/
 
 
 ![Picture of Tillie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl64pURBw7vj336U3M8rqX2t76OVFyLuT-EA&s)
